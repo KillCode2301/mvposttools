@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MV POST IT TOOLS AND SYSTEMS]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>MV POST IT TOOLS AND SYSTEMS</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 31 Oct 2024 09:03:54 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 31 Oct 2024 09:03:54 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[EDI messages]]></title><description><![CDATA[<a class="tag" href="?query=tag:standards" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#standards</a> <a class="tag" href="?query=tag:ptctools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ptctools</a> <a class="tag" href="?query=tag:internationaltools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#internationaltools</a> 
+ <br>tags: <a href=".?query=tag:standards" class="tag" target="_blank" rel="noopener nofollow">#standards</a> <a href=".?query=tag:ptctools" class="tag" target="_blank" rel="noopener nofollow">#ptctools</a> <a href=".?query=tag:internationaltools" class="tag" target="_blank" rel="noopener nofollow">#internationaltools</a> <br><br>EDI or Electronic Data Interchange is an international standard set by the UPU for Designated Operators to use in all of their IT tools to share updates and statuses. <br>
+EDI messages are categorized by versions called EMSEVT. The latest version is V3 which includes customs and transit level files
+<br><br>
+<br>Used in all of the tolls provided by the UPU as well as the PTC to transmit data about mail dispatches from the consignment to item level
+
+<br>IPS
+<br>CDS
+<br>QCS
+
+
+<br>
+This standard is not technically a tool and is integrated into all of the other tools provided by the UPU.
+<br><img alt="Pasted image 20241031135400.png" src="lib/media/pasted-image-20241031135400.png"><br><br><img alt="Pasted image 20241031082350.png" src="lib/media/pasted-image-20241031082350.png">]]></description><link>edi-messages/edi-messages.html</link><guid isPermaLink="false">EDI messages/EDI messages.md</guid><pubDate>Thu, 31 Oct 2024 08:54:44 GMT</pubDate><enclosure url="lib/media/pasted-image-20241031135400.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20241031135400.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[EMS SMART]]></title><description><![CDATA[<a class="tag" href="?query=tag:ptctools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ptctools</a> <a class="tag" href="?query=tag:operations" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#operations</a> <a class="tag" href="?query=tag:internationaltools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#internationaltools</a> <a class="tag" href="?query=tag:emstools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#emstools</a> <a class="tag" href="?query=tag:standards" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#standards</a> <a class="tag" href="?query=tag:analytics" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#analytics</a> 
+ <br>tags: <a href=".?query=tag:ptctools" class="tag" target="_blank" rel="noopener nofollow">#ptctools</a> <a href=".?query=tag:operations" class="tag" target="_blank" rel="noopener nofollow">#operations</a> <a href=".?query=tag:internationaltools" class="tag" target="_blank" rel="noopener nofollow">#internationaltools</a> <a href=".?query=tag:emstools" class="tag" target="_blank" rel="noopener nofollow">#emstools</a> <a href=".?query=tag:standards" class="tag" target="_blank" rel="noopener nofollow">#standards</a> <a href=".?query=tag:analytics" class="tag" target="_blank" rel="noopener nofollow">#analytics</a><br><br>link: <a rel="noopener nofollow" class="external-link" href="https://www.emssmart.post" target="_blank">https://www.emssmart.post</a><br>EMS SMART or Specific, Measurable, Achievable, Relevant, Time-bound tools is a tools used to get in-depth analysis of EMS items only ,performance using the help of EDI files transmitted by IPS and condensing the data down into KPIs<br>
+This contains in-depth calculations and ability to drill down on items in both dispatch wise and timeline wise.
+<br><br>
+<br>It is used by the EMS Unit and the Quality control team to ensure operation of EMS items are going according to set standards
+<br>This tool is used to messure Designated Operators performance for the EMS Performance Award.
+<br><br><img alt="Pasted image 20241031084149.png" src="lib/media/pasted-image-20241031084149.png"><br><img alt="Pasted image 20241031084937.png" src="lib/media/pasted-image-20241031084937.png">]]></description><link>ems-tools/ems-smart.html</link><guid isPermaLink="false">EMS Tools/EMS SMART.md</guid><pubDate>Thu, 31 Oct 2024 03:49:39 GMT</pubDate><enclosure url="lib/media/pasted-image-20241031084149.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20241031084149.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[i-Care]]></title><description><![CDATA[<a class="tag" href="?query=tag:ptctools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ptctools</a> <a class="tag" href="?query=tag:operations" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#operations</a> <a class="tag" href="?query=tag:customercare" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#customercare</a> <a class="tag" href="?query=tag:internationaltools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#internationaltools</a> <a class="tag" href="?query=tag:emstools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#emstools</a> 
+ <br>tags: <a href=".?query=tag:ptctools" class="tag" target="_blank" rel="noopener nofollow">#ptctools</a> <a href=".?query=tag:operations" class="tag" target="_blank" rel="noopener nofollow">#operations</a> <a href=".?query=tag:customercare" class="tag" target="_blank" rel="noopener nofollow">#customercare</a> <a href=".?query=tag:internationaltools" class="tag" target="_blank" rel="noopener nofollow">#internationaltools</a> <a href=".?query=tag:emstools" class="tag" target="_blank" rel="noopener nofollow">#emstools</a> <br><br>link: <a rel="noopener nofollow" class="external-link" href="https://icare.post/" target="_blank">https://icare.post/</a><br>i-Care system is used to send and recive inquiries regarding EMS items only. This system consists mainly of inquires and notifications.<br><br>
+<br>As Requesting partner
+
+<br>Send inquiries to Destination Partner DOs to raise issues/concerns with EMS outbound as well as inbound items
+
+
+<br>As Replying partner
+
+<br>Send replies to Origin Partner DOs to raise issues/concerns with EMS outbound as well as inbound items
+
+
+<br>Inquiries as structured into Workflows with different level starting from Level 1 and ending at Level 3
+<br><br><img alt="Pasted image 20241031083246.png" src="lib/media/pasted-image-20241031083246.png"><br><br><img alt="Pasted image 20241031083342.png" src="lib/media/pasted-image-20241031083342.png"><br><br>
+i-Care is used to measure Designated Operators against the EMS Customer Care standards and award the best performing operators 
+<br><br>
+<br>Time to open reply
+<br>On-Time Reply
+<br>Workflow escalations 
+]]></description><link>ems-tools/i-care.html</link><guid isPermaLink="false">EMS Tools/i-Care.md</guid><pubDate>Thu, 31 Oct 2024 03:43:08 GMT</pubDate><enclosure url="lib/media/pasted-image-20241031083246.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20241031083246.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[E-tukuri Local Client]]></title><description><![CDATA[<a class="tag" href="?query=tag:localtool" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#localtool</a> <a class="tag" href="?query=tag:ecommerce" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ecommerce</a> 
+ <br>tags: <a href=".?query=tag:localtool" class="tag" target="_blank" rel="noopener nofollow">#localtool</a> <a href=".?query=tag:ecommerce" class="tag" target="_blank" rel="noopener nofollow">#ecommerce</a> <br><br>This tool was developed for E-commerce E-tukuri local as an all in one solution for local Etukuri.<br>
+Currently this tool is utilized by Mail Operations and E-tukuri E-commerce teams.
+<br><br>
+<br>Mail Operations Purposes
+
+<br>Updating the status of the item when the item is shipped
+
+
+]]></description><link>local-systems/e-tukuri-local-client.html</link><guid isPermaLink="false">Local Systems/E-Tukuri Local Client.md</guid><pubDate>Thu, 31 Oct 2024 03:14:37 GMT</pubDate></item><item><title><![CDATA[MMS Events]]></title><description><![CDATA[<a class="tag" href="?query=tag:standards" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#standards</a> <a class="tag" href="?query=tag:localtool" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#localtool</a> 
+ <br>tags: <a href=".?query=tag:standards" class="tag" target="_blank" rel="noopener nofollow">#standards</a> <a href=".?query=tag:localtool" class="tag" target="_blank" rel="noopener nofollow">#localtool</a> <br><br>The MMS or Mail Management System Events refers to the events being used in MMS to keep a log/timeline of individual mail items and Mail bags for domestic dispatches.<br>
+The MMS Events are created by taking the EDI messaging standard as a reference hence a lot of simmilarities can be seen.
+<br><br><img alt="Pasted image 20241031095201.png" src="lib/media/pasted-image-20241031095201.png"><br><br><img alt="Pasted image 20241031095333.png" src="lib/media/pasted-image-20241031095333.png">]]></description><link>local-systems/mms-events.html</link><guid isPermaLink="false">Local Systems/MMS Events.md</guid><pubDate>Thu, 31 Oct 2024 04:53:41 GMT</pubDate><enclosure url="lib/media/pasted-image-20241031095201.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20241031095201.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[MMS : Mail Management System]]></title><description><![CDATA[<a class="tag" href="?query=tag:operations" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#operations</a> <a class="tag" href="?query=tag:fad" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fad</a> <a class="tag" href="?query=tag:localtool" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#localtool</a> 
+ <br>tags: <a href=".?query=tag:operations" class="tag" target="_blank" rel="noopener nofollow">#operations</a> <a href=".?query=tag:fad" class="tag" target="_blank" rel="noopener nofollow">#fad</a> <a href=".?query=tag:localtool" class="tag" target="_blank" rel="noopener nofollow">#localtool</a><br><br>link: <a rel="noopener nofollow" class="external-link" href="https://mms.maldivespost.com/" target="_blank">https://mms.maldivespost.com/</a><br>MMS or Mail Management System is the local tool designed and created in house by Maldives Post to facilitate and digitalize the processing of incoming items. This tool has multiple modules, each dedicated to a specific part of the import process to increase efficiency. <br>Tracking elements seen in this system is a reflection of the events seen in IPS.POST for easier understanding and familiarity. <br>
+This system is the main system used by Maldives Post to currently facilitate most of the processing for import items as well as monitoring of said items
+<br><br>
+<br>Processing of inbound mail items from Mail bag opening by Mail Operations to final delivery by counter staff. Some tasks including but not limited to:
+
+<br>Data Entry
+<br>Mail bag creation and processing for domestic dispatch
+<br>Process level and Item level validations at certain points to ensure correct processing of items
+<br>Item tracking and status updating via the use of <a data-href="MMS Events" href="local-systems/mms-events.html" class="internal-link" target="_self" rel="noopener nofollow">MMS Events</a>
+<br>Item log for better monitoring of item using  <a data-href="MMS Events" href="local-systems/mms-events.html" class="internal-link" target="_self" rel="noopener nofollow">MMS Events</a>
+
+
+<br>Exporting of both CVS and XLS files for investigation, analysis and performance purpose
+<br>Exporting finance related documents for accounting purposes
+<br><br>
+It is crucial to note that all of the staff that is involved in any way in the Postal Operation pipeline will have some level of access to this tool
+<br>
+<br>Mail Operations Department
+
+<br>EMS Unit
+<br>Delivery Unit
+<br>Processing Unit
+<br>Quality Control and MOD Development staff
+
+
+<br>Counter Service and Customer care
+
+<br>Counter staff delivering item
+<br>Counter staff collecting export
+
+
+<br>Finance and Accounting Department
+<br>Business Development and Marketing
+<br>E-commerce
+<br><br><img alt="Pasted image 20241031094004.png" src="lib/media/pasted-image-20241031094004.png"><br><img alt="Pasted image 20241031094045.png" src="lib/media/pasted-image-20241031094045.png"><br><img alt="Pasted image 20241031094139.png" src="lib/media/pasted-image-20241031094139.png"><br><br>Currently MMS integrates with multiple tools by using conventional XML and API connection for both Local and International tools provided by the UPU as detailed below:<br>
+<br>Local System
+
+<br><a data-href="VMS Vessel  Management System" href="local-systems/vms-vessel-management-system.html" class="internal-link" target="_self" rel="noopener nofollow">VMS Vessel  Management System</a> - API
+
+<br>Data of MMS events will be sent and received for Domestic network items
+
+
+<br><a data-href="E-Tukuri Local Client" href="local-systems/e-tukuri-local-client.html" class="internal-link" target="_self" rel="noopener nofollow">E-Tukuri Local Client</a> - API
+
+<br>EMA or posting event is automated for E-Tukuri local items from Local Client to MMS
+
+
+
+
+<br>International Systems
+
+<br><a data-href="IPS.POST" href="ips.post.html" class="internal-link" target="_self" rel="noopener nofollow">IPS.POST</a> - XML
+
+<br>Will be used to do certain EDI updates for items currently in MMS to IPS.POST
+
+<br>EMF, EMG and EMH/EMI
+
+
+
+
+
+
+]]></description><link>local-systems/mms-mail-management-system.html</link><guid isPermaLink="false">Local Systems/MMS Mail Management System.md</guid><pubDate>Thu, 31 Oct 2024 09:02:46 GMT</pubDate><enclosure url="lib/media/pasted-image-20241031094004.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20241031094004.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[VMS Vessel Management System]]></title><description><![CDATA[ 
+ <br><br>link: {not available}<br>VMS Vessel Management System is used mostly within the domestic postal network to process and track Domestic Mail. The system consists of a web application and mobile application for staff to use.<br>
+The system is currently under development hence no finalized information is available.
+]]></description><link>local-systems/vms-vessel-management-system.html</link><guid isPermaLink="false">Local Systems/VMS Vessel  Management System.md</guid><pubDate>Thu, 31 Oct 2024 04:46:02 GMT</pubDate></item><item><title><![CDATA[CDS.POST : Customs Declaration System]]></title><description><![CDATA[<a class="tag" href="?query=tag:operations" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#operations</a> <a class="tag" href="?query=tag:editool" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#editool</a> <a class="tag" href="?query=tag:internationaltools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#internationaltools</a> <a class="tag" href="?query=tag:customs" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#customs</a> 
+ <br>tags: <a href=".?query=tag:operations" class="tag" target="_blank" rel="noopener nofollow">#operations</a> <a href=".?query=tag:editool" class="tag" target="_blank" rel="noopener nofollow">#editool</a>  <a href=".?query=tag:internationaltools" class="tag" target="_blank" rel="noopener nofollow">#internationaltools</a> <a href=".?query=tag:customs" class="tag" target="_blank" rel="noopener nofollow">#customs</a> <br><br>link: <a rel="noopener nofollow" class="external-link" href="https://cds.post/" target="_blank">https://cds.post/</a><br>CDS is used by operations staff to enter all of the required item level data elements to be transmitted to the destination DO for outbound items in the form of an ITMATT message. The details such as the content of the item, description, quantity and the HS codes will be included in this message. <br>
+The above mentioned ITMATT message follows the EDI standard of messages so that it can be read by other UPU Designated Tools and systems more easily.
+<br><br>
+<br>Sending item level details to Destination DO
+<br>Creating, Editing and viewing ITMATT messages for outbound items
+<br>Viewing ITMATT messages for inbound items of DOs that use CDS
+<br>Exchanging of CUSTIM and CUSRES messages from Postal Operator to Customs authority
+
+<br>Currently instead of this we utilize ASYCUDA
+<br>Possibility for connecting CDS and ASYCUDA is there
+
+
+<br><img alt="Pasted image 20241031122014.png" src="lib/media/pasted-image-20241031122014.png"><br><img alt="Pasted image 20241031122035.png" src="lib/media/pasted-image-20241031122035.png"><br><br>
+It is crucial to note that all of the staff that is involved in the process of exporting will have some level of access to this tool
+<br>
+<br>Mail Operations Department
+
+<br>EMS Unit
+<br>International Dispatch
+<br>Quality Control and MOD Development staff
+
+
+<br>Counter Service and Customer care
+
+<br>Counter staff collecting export
+
+
+<br><br>Currently CDS only integrates with tools by using conventional XML for International tools provided by the UPU as detailed below:<br>
+<br>International Systems
+
+<br><a data-href="IPS.POST" href="ips.post.html" class="internal-link" target="_self" rel="noopener nofollow">IPS.POST</a> - XML
+<br><a data-href="QCS Quality Control System" href="statistics-and-analytical-tools/qcs-quality-control-system.html" class="internal-link" target="_self" rel="noopener nofollow">QCS Quality Control System</a> - XML
+
+
+]]></description><link>operational-tools/cds.post-customs-declaration-system.html</link><guid isPermaLink="false">Operational Tools/CDS.POST Customs Declaration System.md</guid><pubDate>Thu, 31 Oct 2024 07:20:39 GMT</pubDate><enclosure url="lib/media/pasted-image-20241031122014.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20241031122014.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[IPC Global Customer Service System]]></title><description><![CDATA[<a class="tag" href="?query=tag:ptctools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ptctools</a> <a class="tag" href="?query=tag:operations" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#operations</a> <a class="tag" href="?query=tag:customercare" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#customercare</a> <a class="tag" href="?query=tag:internationaltools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#internationaltools</a> 
+ <br>tags: <a href=".?query=tag:ptctools" class="tag" target="_blank" rel="noopener nofollow">#ptctools</a> <a href=".?query=tag:operations" class="tag" target="_blank" rel="noopener nofollow">#operations</a> <a href=".?query=tag:customercare" class="tag" target="_blank" rel="noopener nofollow">#customercare</a> <a href=".?query=tag:internationaltools" class="tag" target="_blank" rel="noopener nofollow">#internationaltools</a> <br><br>link: <a rel="noopener nofollow" class="external-link" href="https://gcss.ipc.be/CSS/login.htm" target="_blank">https://gcss.ipc.be/CSS/login.htm</a><br> Internet Based Inquiry System system is used to send and receive inquiries regarding all items except from EMS items. This system consists mainly of inquires and notifications.<br>
+i-Care is the more modern and refined version of IBIS or GCSS developed by the EMS Unit for EMS items
+<br><br>
+<br>As Requesting partner
+
+<br>Send inquiries along with CN08 to Destination Partner DOs to raise issues/concerns with EMS outbound as well as inbound items
+
+
+<br>As Replying partner
+
+<br>Send replies along with CN08 to Origin Partner DOs to raise issues/concerns with EMS outbound as well as inbound items
+
+
+<br>Inquiries as structured into Workflows with different level starting from Level 1 and ending at Level 3
+<br><img alt="Pasted image 20241031093342.png" src="lib/media/pasted-image-20241031093342.png"><br><br>
+It is crucial to note that the seniors/managers from the respective sections will also have some level of accses to this tool
+<br>
+<br>Counter Service and Customer care
+
+<br>Call Center Staff and Supervisor
+
+
+]]></description><link>operational-tools/ipc-global-customer-service-system.html</link><guid isPermaLink="false">Operational Tools/IPC Global Customer Service System.md</guid><pubDate>Thu, 31 Oct 2024 07:14:45 GMT</pubDate><enclosure url="lib/media/pasted-image-20241031093342.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20241031093342.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[QCS Quality Control System]]></title><description><![CDATA[<a class="tag" href="?query=tag:ptctools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ptctools</a> <a class="tag" href="?query=tag:operations" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#operations</a> <a class="tag" href="?query=tag:internationaltools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#internationaltools</a> <a class="tag" href="?query=tag:standards" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#standards</a> 
+ <br>tags: <a href=".?query=tag:ptctools" class="tag" target="_blank" rel="noopener nofollow">#ptctools</a> <a href=".?query=tag:operations" class="tag" target="_blank" rel="noopener nofollow">#operations</a> <a href=".?query=tag:internationaltools" class="tag" target="_blank" rel="noopener nofollow">#internationaltools</a> <a href=".?query=tag:standards" class="tag" target="_blank" rel="noopener nofollow">#standards</a> <br><br>link legacy: <a rel="noopener nofollow" class="external-link" href="https://qcsmail.ptc.post" target="_blank">https://qcsmail.ptc.post</a><br>
+link Big Data: <a rel="noopener nofollow" class="external-link" href="https://qcsmailbd.ptc.post" target="_blank">https://qcsmailbd.ptc.post</a><br>This system is used to measure the performance of all types of mail items using the EDI messages transmitted by IPS.<br>
+QCS it split into 2 systems as of now, with one being the legacy version of QCS and the other being the new and upgraded version or QCS Big Data. The legacy version is being phased out  slowly by the PTC team at UPU.
+<br><br>
+<br>
+QCS is used to see all of the performance metrics of all type of mail for a certain period or timeframe. 
+
+<br>Drill down by Origin operator as well
+
+
+<br>
+Mainly used in day to day operations to check if the delivery status has been updated to IPS
+
+<br>
+QCS Big Data is used currently for mostly with metrics related to customs and EDI compliance
+
+<br>
+This is the tool from which monthly reports for the UPU EDI Compliance project can be viewed and downloaded.
+
+<br><br><img alt="Pasted image 20241031085451.png" src="lib/media/pasted-image-20241031085451.png"><br><br><img alt="Pasted image 20241031122239.png" src="lib/media/pasted-image-20241031122239.png"><br><br><img alt="Pasted image 20241031085857.png" src="lib/media/pasted-image-20241031085857.png"><br><br>
+It is crucial to note that the seniors/managers from the respective sections will also have some level of accses to this tool
+<br>
+<br>Mail Operations Department
+
+<br>Processing Unit (Supervisor and HOD)
+<br>Quality Control and MOD Development staff
+
+
+<br><br>
+<br>Mail Operations Department
+<br>Counter Service and Customer Care
+]]></description><link>statistics-and-analytical-tools/qcs-quality-control-system.html</link><guid isPermaLink="false">Statistics and Analytical Tools/QCS Quality Control System.md</guid><pubDate>Thu, 31 Oct 2024 07:22:43 GMT</pubDate><enclosure url="lib/media/pasted-image-20241031085451.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;lib/media/pasted-image-20241031085451.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[IPS.POST]]></title><description><![CDATA[<a class="tag" href="?query=tag:operations" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#operations</a> <a class="tag" href="?query=tag:editool" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#editool</a> <a class="tag" href="?query=tag:ptctools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ptctools</a> <a class="tag" href="?query=tag:internationaltools" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#internationaltools</a> <a class="tag" href="?query=tag:fad" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#fad</a> 
+ <br>tags: <a href=".?query=tag:operations" class="tag" target="_blank" rel="noopener nofollow">#operations</a> <a href=".?query=tag:editool" class="tag" target="_blank" rel="noopener nofollow">#editool</a> <a href=".?query=tag:ptctools" class="tag" target="_blank" rel="noopener nofollow">#ptctools</a> <a href=".?query=tag:internationaltools" class="tag" target="_blank" rel="noopener nofollow">#internationaltools</a> <a href=".?query=tag:fad" class="tag" target="_blank" rel="noopener nofollow">#fad</a> <br><br>IPS is the universal platform used to transmit operational and financial messages to and from UPU Designated Operators in the form of <a data-href="EDI messages" href="edi-messages/edi-messages.html" class="internal-link" target="_self" rel="noopener nofollow">EDI messages</a>.  IPS plays a very crucial role in the entire postal operations pipeline and in updating the whereabouts and the statuses of all of the items in the postal chain.<br><br><img alt="Pasted image 20241031135400.png" src="01.-assets-images/pasted-image-20241031135400.png"><br><br>
+<br>Processing of Import mail dispatches
+
+<br>Updating the import statuses for all inbound mail dispatches with statuses such as:
+
+<br>EMD, EDA and EDB
+
+
+<br>Status updating for when the item enters customs processing (Optional) such as:
+
+<br>EDB, EME and EDC
+
+
+<br>Updating status for items when it enters the local postal network such as:
+
+<br>EMF, EMG and EMH/EMI
+
+
+
+
+<br>Processing of Export mail dispatches
+
+<br>Receiving mail items from customers or over the counter
+
+<br>EMA
+
+
+<br>Processing of the item at export office of exchange
+
+<br>EMB and EMC
+
+
+<br>Status updating for when the item enters customs processing (Optional) such as:
+
+<br>EXA, EXB, EXC and EXD
+
+
+<br>Terminating the import if necessary with EXX
+<br>Transit event updating (Optional)
+
+<br>EMJ and EMK
+
+
+
+
+<br>Creation of verifications and damage reports for inbound and outbound items
+<br>Retrieving high level operational and financial reports
+
+<br>Dispatch and item level statistics for partner DOs
+
+
+<br><img alt="Pasted image 20241031091447.png" src="01.-assets-images/pasted-image-20241031091447.png"><br><br>
+It is crucial to note that the seniors/managers from the respective sections will also have some level of accses to this tool
+<br>
+<br>Mail Operations Department
+
+<br>EMS Unit (Supervisor and EMS Dedicated staff)
+<br>Delivery Unit
+<br>Processing Unit (IPS Dedicated staff)
+<br>Quality Control and MOD Development staff
+
+
+<br>Counter Service and Customer care
+
+<br>Counter staff delivering item
+<br>Counter staff collecting export
+
+
+<br><br>Currently IPS.POST integrates with multiple tools by using conventional XML rather than API connection for both Local and International tools provided by the UPU as detailed below:<br>
+<br>Local Integrations
+
+<br><a data-href="MMS Mail Management System" href="local-systems/mms-mail-management-system.html" class="internal-link" target="_self" rel="noopener nofollow">MMS Mail Management System</a> : XML
+
+<br>Will be used to do certain EDI updates for items currently in MMS to IPS.POST
+
+<br>EMF, EMG and EMH/EMI
+
+
+
+
+
+
+<br>International Integrations
+
+<br><a data-href="QCS Quality Control System" href="statistics-and-analytical-tools/qcs-quality-control-system.html" class="internal-link" target="_self" rel="noopener nofollow">QCS Quality Control System</a>
+
+<br>EDI data of last 6 months will be sent for statistics purposes
+
+
+<br><a data-href="CDS.POST Customs Declaration System" href="operational-tools/cds.post-customs-declaration-system.html" class="internal-link" target="_self" rel="noopener nofollow">CDS.POST Customs Declaration System</a>
+
+<br>ITMATT checking for inbound items
+
+
+<br><a data-href="EMS SMART" href="ems-tools/ems-smart.html" class="internal-link" target="_self" rel="noopener nofollow">EMS SMART</a>
+
+<br>EDI data of last 6 months will be sent for statistics purposes for EMS items only
+
+
+<br><a data-href="i-Care" href="ems-tools/i-care.html" class="internal-link" target="_self" rel="noopener nofollow">i-Care</a>
+
+<br>EDI data of last 6 months will be sent for tracking and inquiry purposes
+
+
+<br><a data-href="IPC Global Customer Service System" href="operational-tools/ipc-global-customer-service-system.html" class="internal-link" target="_self" rel="noopener nofollow">IPC Global Customer Service System</a>
+
+<br>EDI data of last 6 months will be sent for tracking and inquiry purposes
+
+
+
+
+]]></description><link>ips.post.html</link><guid isPermaLink="false">IPS.POST.md</guid><pubDate>Thu, 31 Oct 2024 09:01:22 GMT</pubDate><enclosure url="01.-assets-images/pasted-image-20241031135400.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;01.-assets-images/pasted-image-20241031135400.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
