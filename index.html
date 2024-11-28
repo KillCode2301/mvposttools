@@ -3,19 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Page</title>
+    <title>Website Updates</title>
     <style>
         body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #ffe6e6; /* Faint red background */
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            max-width: 1200px;
+            padding: 20px;
         }
         .button-container {
-            text-align: center;
+            margin-bottom: 20px;
         }
         .button-container a {
             display: inline-block;
@@ -29,11 +39,74 @@
         .button-container a:hover {
             background-color: #990000; /* Even darker shade of red on hover */
         }
+        .cards-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .card {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            padding: 20px;
+            width: 100%;
+            max-width: 500px;
+            text-align: left;
+            box-sizing: border-box; /* Ensure padding and border are included in the width */
+        }
+        .card h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        .card p {
+            color: #666;
+        }
+        .card .date {
+            font-size: 0.9em;
+            color: #999;
+            margin-bottom: 10px;
+        }
+        @media (min-width: 768px) {
+            .container {
+                flex-direction: row;
+            }
+            .button-container {
+                margin-right: 20px;
+                margin-bottom: 0;
+            }
+        }
     </style>
 </head>
 <body>
-    <div class="button-container">
-        <a href="ips-post.html">Enter Knowledgebase</a>
+    <div class="container">
+        <div class="button-container">
+            <a href="ips-post.html">Enter Knowledgebase</a>
+        </div>
+
+        <section class="cards-container">
+            <div class="card">
+                <h3>Initial Deployment of the Knowledgebase</h3>
+                <p class="date">Published on: October 10, 2024</p>
+                <p>
+                    This is the first deployment of the MV Post Knowledgebase. It
+                    includes a comprehensive collection of resources to help users
+                    understand the IT tools and Systems effectively and how they relate
+                    to each other.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Adding UPU Compliance Project and Reports section</h3>
+                <p class="date">Published on: November 28, 2024</p>
+                <p>
+                    This update introduces the UPU Compliance project and a new section
+                    for MV Post's projects and UPU mandated reports.
+                </p>
+            </div>
+            <!-- Add more cards as needed -->
+        </section>
     </div>
 </body>
 </html>
